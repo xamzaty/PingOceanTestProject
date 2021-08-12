@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PingOceanTestProject</string>
+    <string name="enter">Enter</string>
+    <string name="welcome">Welcome</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="enter_your_password">Enter Your Password</string>
+    <string name="name">Name:</string>
+    <string name="password">Password:</string>
+    <string name="token">Token:</string>
+    <string name="exit">Exit</string>
+    <string name="do_you_want_to_exit">Do You Want To Exit?</string>
+    <string name="alert_title">Exit</string>
+    <string name="email">Email:</string>
+    <string name="position">Position:</string>
+    <string name="phone">Phone:</string>
+</resources>
